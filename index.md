@@ -2,13 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Learn Phoenix and Elixir in the most comprehensive manner"
 permalink: /
 ---
 
-# The Only Elixir Learning Kit you will ever need
+# The Only Elixir & Phoenix Learning Kit you will ever need
 {: .fs-9 }
 
+### Learning Elixir and Phoenix is tectonic, given the feeble amount of resources present online and the scope of the topic being very wide. 
 There is a lack of good resources online. Most of the content is either outdated or irrelevent as of 2020. The current documentation of both Elixir and Phoenix is difficult to understand. There is no clear roadmap as to how to progress in the Elixir-Phoenix Journey. Most people don't know if Phoenix is the right choice for them. This repo provides the roadmap, main concept guides, cheatsheets, project based learning, and important resources along the way.
 {: .fs-6 .fw-300 }
 
@@ -16,65 +17,58 @@ There is a lack of good resources online. Most of the content is either outdated
 
 ---
 
-## Getting started
+# First Things First
 
-### Dependencies
+## THE BIRD EYE VIEW
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+# Elixir & Phoenix - Zero to Hero
 
-### Quick start: Use as a GitHub Pages remote theme
+## Why this Repo?
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+There is a lack of good resources online. Most of the content is either outdated or irrelevent as of 2020. The current documentation of both Elixir and Phoenix is difficult to understand. There is no clear roadmap as to how to progress in the Elixir-Phoenix Journey. Most people don't know if Phoenix is the right choice for them. This repo provides the roadmap, main concept guides, cheatsheets, project based learning, and important resources along the way.
 
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
+This repo is a single source of truth, that can make you aware of the entire landscape of Elixir and Phoenix. This guide transforms your idea of
 
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+###### Elixir
 
-### Local installation: Use the gem-based theme
+> From a magic potion to a functional and extremely robust programming language.
 
-1. Install the Ruby Gem
+##### &
 
-```bash
-$ gem install just-the-docs
-```
+###### Phoenix
 
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
+> From a bird to fully-scalable modern web-development framework.
 
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
+🌟Give a GitHub Star if you understood the joke over there!🤣
 
-```yaml
-theme: "just-the-docs"
-```
+## How to use this Repo?
 
-3. _Optional:_ Initialize search data (creates `search-data.json`)
+1. There is a roadmap of the all the phases required to master the elixir phoenix landscape
+2. There are cheatsheets for both Elixir and Phoenix segregated according to the concepts involved.
+3. There are currently 2 projects on Elixir and 2 Projects on Phoenix for making the learning journey a breeze. (More projects coming up)
+4. There are many updated resources about where to look when to stuck/ not able to understand a particular topic.
 
-```bash
-$ bundle exec just-the-docs rake search:init
-```
+## What is Elixir & Phoenix Framework
 
-3. Run you local Jekyll server
+## Which companies are currently using Phoenix and how has it benefitted them?
 
-```bash
-$ jekyll serve
-```
+## When to (not to) use Elixir alongwith Phoenix? What are the alternatives?
 
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
+## The roadmap for making the Elixir and Phoenix journey
 
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+## Updated Resources
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+## Best books to learn, and what they offers
 
-### Configure Just the Docs
+## Mix - Build Tool
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+### Creates Projects
+
+#### Compiles Projects
+
+#### Runs 'Tasks'
+
+#### Manages Dependencies
 
 ---
 
