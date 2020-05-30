@@ -9,7 +9,7 @@ permalink: /
 # The Only Elixir Learning Kit you will ever need
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+There is a lack of good resources online. Most of the content is either outdated or irrelevent as of 2020. The current documentation of both Elixir and Phoenix is difficult to understand. There is no clear roadmap as to how to progress in the Elixir-Phoenix Journey. Most people don't know if Phoenix is the right choice for them. This repo provides the roadmap, main concept guides, cheatsheets, project based learning, and important resources along the way.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
