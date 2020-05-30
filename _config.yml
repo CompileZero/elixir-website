@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Elixir & Phoenix Learning Kit
 description: The most comprehensive Phoenix Learning kit on the web
-baseurl: "/elixir-website" # the subpath of your site, e.g. /blog
-url: "https://compilezero.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://elixir-website.now.sh" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude:
