@@ -16,7 +16,7 @@
 title: Elixir & Phoenix Learning Kit
 description: The most comprehensive Phoenix Learning kit on the web
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://elixir-website.now.sh" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://phoenixkit.ml" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude:
