@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: Roadmap
 nav_order: 2
 ---
 
-# Configuration
+# Roadmap
 {: .no_toc }
 
 
@@ -23,6 +23,8 @@ Just the Docs has some specific configuration parameters that can be defined in 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 ## Site logo
+
+
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
