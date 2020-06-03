@@ -11,21 +11,20 @@ permalink: /
 
 
 ## What to expect from this kit?
-After utlising this kit completely, you would:
-- Understand where exactly Elixir & Phoenix are used in the industry
-- Know when-to/when-not-to use phoenix & elixir
-- Understand the possibilities and future of the language
-- Understand Basic Fundamentals of Elixir Language
-- Understand the folder structure and git integration of an Elixir Project
-- Create 2 simple projects in Elixir 
-- Understand Basic Fundamentals of Phoenix Language
-- Understand the folder structure and git integration of a Phoenix Project
-- Create 1 Advanced Project in Phoenix
-- Know how to make money from whatever you've learnt (Job / Freelancing)
-- Get the roadmap / learning path to becoming a master in Elixir & Phoenix
-- Get the roadmap to building a realistic application at scale using Elixir & Phoenix
-- Get curated resources from the best books, articles, videos and docs regarding the language and framework
-
+### After utlising this kit completely, you would:
+#### - Understand where exactly Elixir & Phoenix are used in the industry
+#### - Know when-to/when-not-to use phoenix & elixir
+#### - Understand the possibilities and future of the language
+#### - Understand Basic Fundamentals of Elixir Language
+#### - Understand the folder structure and git integration of an Elixir Project
+#### - Create 2 simple projects in Elixir 
+#### - Understand Basic Fundamentals of Phoenix Language
+#### - Understand the folder structure and git integration of a Phoenix Project
+#### - Create 1 Advanced Project in Phoenix
+#### - Know how to make money from whatever you've learnt (Job / Freelancing)
+#### - Get the roadmap / learning path to becoming a master in Elixir & Phoenix
+#### - Get the roadmap to building a realistic application at scale using Elixir & Phoenix
+#### - Get curated resources from the best books, articles, videos and docs regarding the language and framework
 ###### All of this explained in Layman terms (No Jargons, No complex terminology)
 
 ## This Kit is geared towards
