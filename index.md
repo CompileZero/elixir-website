@@ -28,6 +28,24 @@ After utlising this kit completely, you would:
 
 ###### All of this explained in Layman terms (No Jargons, No complex terminology)
 
+## This Kit is geared towards
+
+#### - Newbie Programmers who want to learn Elixir
+#### - Add another skill-set to their Resume
+
+
+### Should you learn Elixir & Phoenix while learning another language like JavaScript?
+
+The single answer is: Absolutely Yes! It can be very helpful if you're learning 2 languages at the same time.
+
+## 🏓 Pre-requisites
+
+##### Anybody learning from this kit, must
+#### - i. Have an idea of how code exactly works 
+#### - ii. Have a brief understanding of how Git & Github works (Github is probably the place where you found this kit in the first place 😜)
+#### - iii. Be familier with any code editor   
+
+
 ### Learning Elixir and Phoenix is tectonic, given the feeble amount of resources present online and the scope of the topic being very wide. 
 There is a lack of good resources online. Most of the content is either outdated or irrelevent as of 2020. The current documentation of both Elixir and Phoenix is difficult to understand. There is no clear roadmap as to how to progress in the Elixir-Phoenix Journey. Most people don't know if Phoenix is the right choice for them. This repo provides the roadmap, main concept guides, cheatsheets, project based learning, and important resources along the way.
 {: .fs-6 .fw-300 }
