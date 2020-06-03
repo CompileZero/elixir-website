@@ -9,6 +9,14 @@ permalink: /
 # The Only Elixir & Phoenix Learning Kit you will ever need
 {: .fs-9 }
 
+## Kit vs Course
+
+### The main difference between a Kit and a Course is that:
+
+#### - A kit provides stepping stones to assist you VS. A Course teaches you a smaller part of a big concept
+#### - A kit provides a roadmap to get you up and running as fast as possible VS. A course takes it own time to make sure you understand all the concepts taught
+#### - A kit follows a Breadth-First Approach VS A course follows a Depth-First Approach 
+#### - A kit helps you to create your own journey VS. A Course will invariably explain a concept
 
 ## What to expect from this kit?
 ### After utlising this kit completely, you would:
