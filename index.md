@@ -35,7 +35,11 @@ permalink: /
 
 ### Should you learn Elixir & Phoenix while learning another language like JavaScript?
 
-The single answer is: Absolutely Yes! It can be very helpful if you're learning 2 languages at the same time.
+The single answer is: Absolutely Yes! It can be very helpful if you're learning 2 languages at the same time. In that way, 
+
+- You can learn the idiomatic way of writing a particular language
+- You can learn why a programming language was built that way
+- Finally, it's always easier to learn concepts by analogy and by comparison
 
 ## 🏓 Pre-requisites
 
@@ -44,6 +48,12 @@ The single answer is: Absolutely Yes! It can be very helpful if you're learning 
 #### - ii. Have a brief understanding of how Git & Github works (Github is probably the place where you found this kit in the first place 😜)
 #### - iii. Be familier with any code editor   
 
+## Characteristics of this Kit
+
+#### - This kit has been designed keeping in mind the newbie developer
+#### - This kit explains most concepts using an analogy (think Explain-Like-I'm-5)
+#### - This kit focuses more on Project-Based Learning and allows you to try out code by yourself.
+#### - The resources given in this Kit are up-to-date as of June 2020
 
 ### Learning Elixir and Phoenix is tectonic, given the feeble amount of resources present online and the scope of the topic being very wide. 
 There is a lack of good resources online. Most of the content is either outdated or irrelevent as of 2020. The current documentation of both Elixir and Phoenix is difficult to understand. There is no clear roadmap as to how to progress in the Elixir-Phoenix Journey. Most people don't know if Phoenix is the right choice for them. This repo provides the roadmap, main concept guides, cheatsheets, project based learning, and important resources along the way.
