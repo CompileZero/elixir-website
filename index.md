@@ -9,6 +9,25 @@ permalink: /
 # The Only Elixir & Phoenix Learning Kit you will ever need
 {: .fs-9 }
 
+
+## What to expect from this kit?
+After utlising this kit completely, you would:
+- Understand where exactly Elixir & Phoenix are used in the industry
+- Know when-to/when-not-to use phoenix & elixir
+- Understand the possibilities and future of the language
+- Understand Basic Fundamentals of Elixir Language
+- Understand the folder structure and git integration of an Elixir Project
+- Create 2 simple projects in Elixir 
+- Understand Basic Fundamentals of Phoenix Language
+- Understand the folder structure and git integration of a Phoenix Project
+- Create 1 Advanced Project in Phoenix
+- Know how to make money from whatever you've learnt (Job / Freelancing)
+- Get the roadmap / learning path to becoming a master in Elixir & Phoenix
+- Get the roadmap to building a realistic application at scale using Elixir & Phoenix
+- Get curated resources from the best books, articles, videos and docs regarding the language and framework
+
+###### All of this explained in Layman terms (No Jargons, No complex terminology)
+
 ### Learning Elixir and Phoenix is tectonic, given the feeble amount of resources present online and the scope of the topic being very wide. 
 There is a lack of good resources online. Most of the content is either outdated or irrelevent as of 2020. The current documentation of both Elixir and Phoenix is difficult to understand. There is no clear roadmap as to how to progress in the Elixir-Phoenix Journey. Most people don't know if Phoenix is the right choice for them. This repo provides the roadmap, main concept guides, cheatsheets, project based learning, and important resources along the way.
 {: .fs-6 .fw-300 }
@@ -30,6 +49,8 @@ Please buy the course on Udemy.com [Link Here](https://www.udemy.com/course/the-
 P.S.: I do not endorse this course nor do I have any affiliation with the author of the course. This is my personal recommendation as I have completed the course, and was able to use it to create the notes that I have in the document below.
 
 ## THE BIRD EYE VIEW
+What you will acheive after having gone through this entire documentation?
+1. 
 
 # Elixir & Phoenix - Zero to Hero
 
