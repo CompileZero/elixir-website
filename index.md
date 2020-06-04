@@ -13,26 +13,29 @@ permalink: /
 
 ### The main difference between a Kit and a Course is that:
 
-#### - A kit provides stepping stones to assist you VS. A Course teaches you a smaller part of a big concept
 #### - A kit provides a roadmap to get you up and running as fast as possible VS. A course takes it own time to make sure you understand all the concepts taught
+#### - A kit provides stepping stones to assist you VS. A Course teaches you a smaller part of a big concept
 #### - A kit follows a Breadth-First Approach VS A course follows a Depth-First Approach 
 #### - A kit helps you to create your own journey VS. A Course will invariably explain a concept
 
 ## What to expect from this kit?
 ### After utlising this kit completely, you would:
-#### - Understand where exactly Elixir & Phoenix are used in the industry
-#### - Know when-to/when-not-to use phoenix & elixir
-#### - Understand the possibilities and future of the language
-#### - Understand Basic Fundamentals of Elixir Language
-#### - Understand the folder structure and git integration of an Elixir Project
-#### - Create 2 simple projects in Elixir 
-#### - Understand Basic Fundamentals of Phoenix Language
-#### - Understand the folder structure and git integration of a Phoenix Project
-#### - Create 1 Advanced Project in Phoenix
-#### - Know how to make money from whatever you've learnt (Job / Freelancing)
-#### - Get the roadmap / learning path to becoming a master in Elixir & Phoenix
-#### - Get the roadmap to building a realistic application at scale using Elixir & Phoenix
-#### - Get curated resources from the best books, articles, videos and docs regarding the language and framework
+### - Understand where exactly Elixir & Phoenix are used in the industry
+### - Know when-to/when-not-to use phoenix & elixir
+### - Understand the possibilities and future of the language
+### - Understand Basic Fundamentals of Elixir Language
+### - Understand the folder structure and git integration of an Elixir Project
+### - Create 2 simple projects in Elixir 
+### - Understand Basic Fundamentals of Phoenix Language
+### - Understand the folder structure and git integration of a Phoenix Project
+### - Create 1 Advanced Project in Phoenix
+### - Know how to make money from whatever you've learnt (Job / Freelancing)
+### - Get the roadmap / learning path to becoming a master in Elixir & Phoenix
+### - Get the roadmap to building a realistic application at scale using Elixir & Phoenix
+### - Get curated resources from the best books, articles, videos and docs regarding the language and framework
+
+---
+
 ###### All of this explained in Layman terms (No Jargons, No complex terminology)
 
 ## This Kit is geared towards

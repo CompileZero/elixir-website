@@ -4,7 +4,20 @@
 
 // Add glow effect
 body {
-  p {
-    text-shadow: 0px 0px 8px rgba($color: $link-color, $alpha: 0.4);
+  //font-family: "Barlow", sans-serif;
+  h1,
+  h2 {
   }
+  text-shadow: 0px 0px 8px rgba($color: $link-color, $alpha: 0.9);
+  p {
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  //font-family: "Space Mono", monospace;
 }
