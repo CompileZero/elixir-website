@@ -5,6 +5,8 @@ nav_order: 1
 description: "Learn Phoenix and Elixir in the most comprehensive manner"
 permalink: /
 ---
+# Hello
+{: .fs-10 }
 
 # The Only Elixir & Phoenix Learning Kit you will ever need
 {: .fs-9 }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: Beginning Phoenix
 nav_order: 7
 ---
 
