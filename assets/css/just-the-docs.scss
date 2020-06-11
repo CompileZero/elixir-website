@@ -20,11 +20,6 @@ $logo: "{{ site.logo | absolute_url }}";
 // Support
 @import "./support/support";
 
-//
-// Import custom overrides
-//
-
-@import "./custom/custom";
 
 //
 // Import custom color scheme scss
@@ -33,6 +28,13 @@ $logo: "{{ site.logo | absolute_url }}";
 {% if site.color_scheme == "dark" %}
 @import "./color_schemes/dark.scss";
 {% endif %}
+
+//
+// Import custom overrides
+//
+
+@import "./custom/custom";
+
 
 // Modules
 @import "./base";
