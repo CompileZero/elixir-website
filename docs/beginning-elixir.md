@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beginning Elixir
-nav_order: 2
+nav_order: 3
 ---
 
 # Beginning Elixir
