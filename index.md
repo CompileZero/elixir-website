@@ -2,13 +2,10 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Learn Phoenix and Elixir in the most comprehensive manner"
+description: "Learn Elixir in a comprehensive & easy manner"
 permalink: /
 ---
-# Hello
-{: .fs-10 }
-
-# The Only Elixir & Phoenix Learning Kit you will ever need
+# The Elixir Learning Kit you really need
 {: .fs-9 }
 
 ## Kit vs Course
