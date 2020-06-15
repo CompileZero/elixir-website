@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Markdown kitchen sink
-nav_order: 99
+title: Resources
+nav_order: 7
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -54,7 +54,7 @@ end
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |

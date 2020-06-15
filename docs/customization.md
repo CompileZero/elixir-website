@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advanced Elixir Data Structures
-nav_order: 4
+nav_order: 5
 ---
 
 ## Identicon

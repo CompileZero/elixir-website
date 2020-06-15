@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beginning Phoenix
-nav_order: 5
+nav_order: 6
 ---
 
 # Beginning Phoenix
